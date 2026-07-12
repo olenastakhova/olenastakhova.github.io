@@ -2,9 +2,10 @@
 node_modules/
 dist/
 .astro/
+.npm-cache/
 
 # private materials — CV contains personal data, must NOT go to a public repo
-stakhova/
+temp/
 
 # os
 .DS_Store

@@ -16,8 +16,7 @@ export const CONTACT = {
 export const FORM_ENDPOINT = 'https://formsubmit.co/ajax/stakhova@proton.me';
 
 export const SITE = {
-  url: 'https://gerbeev.github.io',
-  base: '/web-portfolio-psi',
+  url: 'https://olenastakhova.github.io',
   name: 'Olena Stakhova',
 };
 

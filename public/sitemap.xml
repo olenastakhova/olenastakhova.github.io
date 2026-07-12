@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gerbeev.github.io/web-portfolio-psi/</loc>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://gerbeev.github.io/web-portfolio-psi/"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://gerbeev.github.io/web-portfolio-psi/uk/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://gerbeev.github.io/web-portfolio-psi/en/"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://gerbeev.github.io/web-portfolio-psi/ru/"/>
+    <loc>https://olenastakhova.github.io/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://olenastakhova.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://olenastakhova.github.io/uk/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://olenastakhova.github.io/en/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://olenastakhova.github.io/ru/"/>
   </url>
-  <url><loc>https://gerbeev.github.io/web-portfolio-psi/uk/</loc></url>
-  <url><loc>https://gerbeev.github.io/web-portfolio-psi/en/</loc></url>
-  <url><loc>https://gerbeev.github.io/web-portfolio-psi/ru/</loc></url>
+  <url><loc>https://olenastakhova.github.io/uk/</loc></url>
+  <url><loc>https://olenastakhova.github.io/en/</loc></url>
+  <url><loc>https://olenastakhova.github.io/ru/</loc></url>
 </urlset>

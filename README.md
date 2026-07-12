@@ -3,7 +3,7 @@
 Лендинг психолога (Краков): PL — основной язык, версии UA / EN / RU.
 Стек: **Astro 5**, чистый CSS, без тяжёлых библиотек. Хостинг: **GitHub Pages**.
 
-**Прод:** https://gerbeev.github.io/web-portfolio-psi/
+**Прод:** https://olenastakhova.github.io/
 
 ## Структура
 
@@ -13,8 +13,7 @@
 - `src/layouts/Base.astro` — head (SEO, hreflang, OG, JSON-LD) + скрипты (анимации, форма)
 - `src/config.ts` — **контакты и endpoint формы** (менять здесь)
 - `src/styles/global.css` — дизайн-система
-- `concept/` — концепт, стайлгайд, превью (не деплоится)
-- `stakhova/` — в `.gitignore`: CV с личными данными, НЕ коммитить в публичный репозиторий
+- `temp/` — локальные исходники и концепты для ревью; папка игнорируется Git и не публикуется
 
 ## Деплой
 
@@ -36,7 +35,7 @@
 
 ```bash
 npm install
-npm run dev      # http://localhost:4321/web-portfolio-psi/
+npm run dev      # http://localhost:4321/
 npm run build    # статика в dist/
 ```
 

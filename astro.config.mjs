@@ -1,7 +1,11 @@
 import { defineConfig } from 'astro/config';
 
-// GitHub Pages: https://gerbeev.github.io/web-portfolio-psi/
+const repository = process.env.GITHUB_REPOSITORY?.split('/')[1];
+const isUserSite = repository?.toLowerCase() === 'olenastakhova.github.io';
+
 export default defineConfig({
-  site: 'https://gerbeev.github.io',
-  base: '/web-portfolio-psi',
+  site: 'https://olenastakhova.github.io',
+  // Project repositories live under /<repo>/; the special user-site repository
+  // is published directly at the domain root.
+  base: repository && !isUserSite ? `/${repository}` : '/',
 });
