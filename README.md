@@ -1,7 +1,7 @@
 # Olena Stakhova — psycholog · сайт-портфолио
 
 Лендинг психолога (Краков): PL — основной язык, версии UA / EN / RU.
-Стек: **Astro 5**, чистый CSS, без тяжёлых библиотек. Хостинг: **GitHub Pages**.
+Стек: **Astro 5**, чистый CSS, без тяжёлых библиотек. Хостинг: **GitHub Pages**. 
 
 **Прод:** https://olenastakhova.github.io/
 
